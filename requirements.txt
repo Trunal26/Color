@@ -1,4 +1,6 @@
-streamlit==1.12.0
+torch==1.9.0
+torchvision==0.10.0
 numpy==1.21.2
-pillow==8.4.0
-torch==1.10.0+cpu  # You can change this version if you need a specific one
+matplotlib==3.4.3
+Pillow==8.4.0
+streamlit==1.12.0  # Optional: Only needed if you're using Streamlit UI
