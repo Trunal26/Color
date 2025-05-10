@@ -1,7 +1,6 @@
-streamlit
-torch
-torchvision
-numpy
-matplotlib
-Pillow
--f https://download.pytorch.org/whl/torch_stable.html
+torch==1.13.1  # Replace with the specific version you used
+torchvision==0.14.1 # Replace with the specific version you used
+streamlit==1.26.0 # Replace with the specific version you used
+Pillow==9.5.0 # Replace with the specific version you used
+numpy==1.23.5 # Replace with the specific version you used
+matplotlib==3.7.1 # Replace with the specific version you used
